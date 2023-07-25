@@ -1,0 +1,16 @@
+current directory: /Users/sakashitakazuya/Desktop/work/books/awesome_events/vendor/bundle/ruby/2.7.0/gems/haml-6.1.1/ext/haml
+/Users/sakashitakazuya/.rbenv/versions/2.7.7/bin/ruby -I /Users/sakashitakazuya/.rbenv/versions/2.7.7/lib/ruby/site_ruby/2.7.0 -r ./siteconf20230725-22055-v24rjc.rb extconf.rb
+creating Makefile
+
+current directory: /Users/sakashitakazuya/Desktop/work/books/awesome_events/vendor/bundle/ruby/2.7.0/gems/haml-6.1.1/ext/haml
+make DESTDIR\= clean
+
+current directory: /Users/sakashitakazuya/Desktop/work/books/awesome_events/vendor/bundle/ruby/2.7.0/gems/haml-6.1.1/ext/haml
+make DESTDIR\=
+compiling haml.c
+compiling hescape.c
+linking shared-object haml/haml.bundle
+
+current directory: /Users/sakashitakazuya/Desktop/work/books/awesome_events/vendor/bundle/ruby/2.7.0/gems/haml-6.1.1/ext/haml
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 haml.bundle ./.gem.20230725-22055-x4tstg/haml
